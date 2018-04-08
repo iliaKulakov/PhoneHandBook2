@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PhoneHandBook2.iml" filepath="$PROJECT_DIR$/PhoneHandBook2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PhoneHandBook2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PhoneHandBook2_main.iml" group="PhoneHandBook2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PhoneHandBook2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PhoneHandBook2_test.iml" group="PhoneHandBook2" />
+    </modules>
+  </component>
+</project>
